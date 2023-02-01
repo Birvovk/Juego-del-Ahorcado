@@ -7,7 +7,8 @@ body {
   box-sizing: border-box;
   font-family: "Inter", sans-serif;
   background: url(../recursos/1.jpg);
-  
+  background-size: cover;
+  background-repeat: no-repeat;
  
 }
 
@@ -83,7 +84,7 @@ body {
 }
 
 .text-input {
-  /* Digite seu texto */
+  /* Digitar texto */
 
   position: absolute;
   width: 600px;
@@ -258,7 +259,7 @@ label {
   flex-direction: column;
   align-items: flex-start;
   position: absolute;
-  left: 42rem;
+  left: 55rem;
 }
 .palabra-nueva {
   position: absolute;
